@@ -1,0 +1,2 @@
+# delllead
+exercícios dell lead
